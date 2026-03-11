@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.venv/
+*.egg-info/
+dist/
+build/
+cleaned_output.json
+quarantined.json
+.pytest_cache/
+.coverage
+htmlcov/
